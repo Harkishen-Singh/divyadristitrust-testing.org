@@ -495,7 +495,7 @@ h2:before {
 	opacity: .6;
 }
 .work .overlay {
-	background: rgba(56, 56, 56, 0.58);
+	background: rgba(56, 56, 56, 0);
 	height: 100%;
 	left: 0;
 	opacity: 0;
