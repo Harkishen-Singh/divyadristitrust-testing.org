@@ -159,7 +159,7 @@ ul li {
 	float: left;
 	font-size: 28px;
 	font-weight: bolder;
-	color: #fff;
+	color: #000;
 	text-decoration:none;
 	text-transform:uppercase;
 	letter-spacing: 3px;
@@ -167,7 +167,7 @@ ul li {
 }
 #header.fixed {
 	background-color: #8bc34a;
-    color: #fff;
+    color: #000;
 }
 #header.fixed a {
 	/* color: #000; */
@@ -195,7 +195,7 @@ ul li {
 	display: inline-block;
 }
 .navigation a {
-	color: #fff;
+	color: #000;
 	font-size: 14px;
 	font-weight: 700;
 	margin-left: 40px;
@@ -208,7 +208,7 @@ ul li {
 }
 .nav-toggle {
 	display: none;
-	height: 44px;
+	height: 25px;  /* for the mobile view */
 	overflow: hidden;
 	position: fixed;
 	right: 5%;
@@ -282,7 +282,7 @@ ul li {
 	transform: translateX(-50%) translateY(-50%);
 }
 .nav-toggle span:before, .nav-toggle span:after {
-	background-color: #fff;
+	background-color: #8bc34a;
 	content: "";
 	height: 100%;
 	position: absolute;
