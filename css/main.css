@@ -123,7 +123,7 @@ ul li {
 	list-style: none;
 }
 .section {
-	padding: 30px 0;
+	padding: px 0;
 }
 .no-padding {
 	padding: 0;
@@ -400,7 +400,7 @@ color: #000;
 .intro h3 {
 	color: #010207;
 	margin-top: 0;
-	padding-bottom: 5px;
+	padding-bottom: 0px;
 	text-transform: capitalize;
 }
 .intro p {
